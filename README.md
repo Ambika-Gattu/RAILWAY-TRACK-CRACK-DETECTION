@@ -2,7 +2,8 @@
 This project uses an Arduino Uno-based embedded system with three IR sensors to detect railway track cracks in real time. It distinguishes cracks from natural gaps and triggers alerts via buzzer/LED. The system replaces slow manual inspection and serves as a base for future GPS/GSM-enabled upgrades.
 
 OBJECTIVES:
-Design a cost-effective, embedded crack detection system<ba>
+<br>
+Design a cost-effective, embedded crack detection system
 Utilize a 3 IR sensor configuration to increase detection accuracy
 Eliminate reliance on GPS/GSM in the initial stage
 Provide a scalable platform for further enhancements
